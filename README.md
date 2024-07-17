@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hello World 👋
 
 <!--
 **KINGShinjoon/KINGShinjoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Skills 🙃
+
+Front : `Next.js`, `React.js`, `React Native`, `Typescript`, `TailwindCSS`,
+<br>
+Back : `Nest.js`, `Django`, `FastAPI`
+<br>
+Etc : `Docker`, `AWS`
+<br>
+Like : `web scrapping`
+
+<hr/>
+
+
+### Contact
+
+Email : sj@cnitsstudio.com
